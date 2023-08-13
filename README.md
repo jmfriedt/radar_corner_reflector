@@ -16,6 +16,15 @@ dramatic loss by directing the rays away from the monostatic RADAR.
 
 <img src="reflection.png">
 
-In this figure, ``nd`` represents the normal vector of the layer defining the dielectric
+In the above figure, ``nd`` represents the normal vector of the layer defining the dielectric
 layer interface, with [1 0 0] representing a layer parallel to the face in the yOz plane
 and [1 1 1] a layer filling the corner reflector.
+
+## Experimental results
+
+The following chart displays the snow depth measurement in Ny-Alesund station and
+the inverse (maximum - measurement) of the corner reflector intensity as recorded
+by the spaceborne Sentinel1 RADAR operating in the C-band (5.405 GHz).
+
+<img src="reflection.png">
+
