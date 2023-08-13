@@ -28,3 +28,17 @@ by the spaceborne Sentinel1 RADAR operating in the C-band (5.405 GHz).
 
 <img src="measurements.png">
 
+## Running the program
+
+The ``reflection.m`` is a simple GNU Octave raytracing program assuming a square trihedral corner
+reflector with sides in the X, Y and Z planes and unit dimensions. Under GNU Octave, running ``reflection``
+shoud sweep the emitter location and record the reflected signal as a function of incident angle in a monostatic
+configuration. At the end, plotting ``plot([-195:1:-55],final)`` displays the reflected signal as a 
+function of incident angle at a given elevation ``phi`` set to 30 degrees, close to the ideal 36 degree value.
+The ideal condition of a bare corner reflector is selected with ``snowcase=0``. Various other dielectric
+layers are selected with ``snowcase>0`` in the program header, with 1 for a corner reflector filled with snow,
+2 for the bottom surface coated with snow parallel to the mirror, 3 for a side coated with snow parallel to the mirror,
+4 for one side coated with a layer of snow tilted in both angles and 5 for a side coated with a layer of
+snow tilted in a single angle. ``mu`` is the ratio of the optical index (square root of the permittivity) to
+vacuum, selected to 1.3 arbitrarily.
+
