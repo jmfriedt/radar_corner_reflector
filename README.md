@@ -26,5 +26,5 @@ The following chart displays the snow depth measurement in Ny-Alesund station an
 the inverse (maximum - measurement) of the corner reflector intensity as recorded
 by the spaceborne Sentinel1 RADAR operating in the C-band (5.405 GHz).
 
-<img src="reflection.png">
+<img src="measurements.png">
 
