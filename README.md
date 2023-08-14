@@ -34,7 +34,7 @@ A 1-m trihedral corner reflector was installed on solid rock close to Ny Alesund
 station ([12.11778E, 78.90365N](https://goo.gl/maps/qpgrMF41vFTqENkcA)) since September
 2021 oriented Eastward so that it is illuminated by descending passes of Sentinel1. The
 data are either retrived as IW/SLC information from ESA Copernicus data hub or as processed 
-GeoTIF files from [ESA EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=11&lat=78.89851&lng=12.11105).
+GeoTIF files from [ESA EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=13&lat=78.903&lng=12.1053).
 
 <img src="2209.jpg" width=300><img src="2304.jpg" width=300>
 
