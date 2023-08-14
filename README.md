@@ -20,6 +20,24 @@ In the above figure, ``nd`` represents the normal vector of the layer defining t
 layer interface, with [1 0 0] representing a layer parallel to the face in the yOz plane
 and [1 1 1] a layer filling the corner reflector.
 
+When running the simulation with ``display=1`` the rays will be traced (easier to see on a single
+ray by uncommenting TEST lines for a single theta angle and a single s, t pair for a single ray): blue
+are rays hitting the corner mirrors, green is a ray hitting the dielectric layer, red is the outgoing
+ray towards the receiver. The signal is considered detected if the outgoing and incoming ray are
+parallel.
+
+<img src="mu1p51.png">
+<img src="mu1p52.png">
+
+## Experimental setup
+
+A 1-m trihedral corner reflector was installed on solid rock close to Ny Alesund at Corbel
+station ([12.11778E, 78.90365N](https://goo.gl/maps/qpgrMF41vFTqENkcA)) since September
+2021 oriented Eastward so that it is illuminated by descending passes of Sentinel1.
+
+<img src="2209.jpg">
+<img src= 2304.jpg">
+
 ## Experimental results
 
 The following chart displays the snow depth measurement in Ny-Alesund station and
