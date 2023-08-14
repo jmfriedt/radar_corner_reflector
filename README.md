@@ -28,6 +28,11 @@ parallel.
 
 <img src="mu1p51.png" width=300><img src="mu1p52.png" width=300>
 
+The right picture emphasizes how the incoming ray (green, left) is diffracted at the air-snow
+interface, reflected 3 times on the corner reflector mirrors, and then diffracted again (red, right)
+before returning to the receiver. If the dielectric layer is not parallel to the mirror faces, the
+returned signal is not parallel to the incoming signal and is not backscattered towards the receiver.
+
 ## Experimental setup
 
 A 1-m trihedral corner reflector was installed on solid rock close to Ny Alesund at Corbel
