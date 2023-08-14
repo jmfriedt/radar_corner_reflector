@@ -26,8 +26,8 @@ are rays hitting the corner mirrors, green is a ray hitting the dielectric layer
 ray towards the receiver. The signal is considered detected if the outgoing and incoming ray are
 parallel.
 
-<img src="mu1p51.png",width=200>
-<img src="mu1p52.png",width=200>
+<img src="mu1p51.png" width=200>
+<img src="mu1p52.png" width=200>
 
 ## Experimental setup
 
@@ -35,8 +35,8 @@ A 1-m trihedral corner reflector was installed on solid rock close to Ny Alesund
 station ([12.11778E, 78.90365N](https://goo.gl/maps/qpgrMF41vFTqENkcA)) since September
 2021 oriented Eastward so that it is illuminated by descending passes of Sentinel1.
 
-<img src="2209.jpg",width=200>
-<img src= 2304.jpg",width=200>
+<img src="2209.jpg" width=200>
+<img src= 2304.jpg" width=200>
 
 ## Experimental results
 
