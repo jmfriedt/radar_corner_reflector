@@ -52,7 +52,7 @@ Each measurement is the result of the processing sequence found in ``S1/Makefile
 ESA SNAP v.9 using the datasets found in ``S1/dataset`` manually downloaded from ESA Copernicus Open 
 Access Hub.
 
-<img src="all.png">
+<img src="S1/all.png">
 
 ## Running the program
 
