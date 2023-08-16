@@ -45,11 +45,14 @@ GeoTIF files from [ESA EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoo
 
 ## Experimental results
 
-The following chart displays the snow depth measurement in Ny-Alesund station and
-the inverse (maximum - measurement) of the corner reflector intensity as recorded
-by the spaceborne Sentinel1 RADAR operating in the C-band (5.405 GHz).
+The following chart displays the snow depth measurement in Ny-Alesund station, precipitations
+and snow depth (courtesy of https://seklima.met.no/) and the signal intensity reflected by the 
+corner reflector as recorded by the spaceborne Sentinel1 RADAR operating in the C-band (5.405 GHz).
+Each measurement is the result of the processing sequence found in ``S1/Makefile.intensity`` using
+ESA SNAP v.9 using the datasets found in ``S1/dataset`` manually downloaded from ESA Copernicus Open 
+Access Hub.
 
-<img src="measurements.png">
+<img src="all.png">
 
 ## Running the program
 
