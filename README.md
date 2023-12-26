@@ -68,3 +68,26 @@ layers are selected with ``snowcase>0`` in the program header, with 1 for a corn
 snow tilted in a single angle. ``mu`` is the ratio of the optical index (square root of the permittivity) to
 vacuum, selected to 1.3 arbitrarily.
 
+## 2D analysis
+
+<img src="refraction/refraction_sch.png">
+
+Refraction of the incoming beam at angle $\vartheta$ with respect to the corner reflector bottom plate at the 
+dielectric interface tilted by $\varphi$ with respect to the bottom plate:
+
+$n\cdot\sin(\vartheta')=\sin(\pi/4-\varphi-\vartheta_i)$
+
+The refracted beam is reflected on the corner reflector conducting plate at the bottom of the dielectric slab
+and is refracted back into air:
+
+$n\cdot\sin(\vartheta'+2\varphi)=\sin(\vartheta'')$
+
+Since $\vartheta''$ is computed with respected to the dielectric layer tilted by $\varphi$ with respect to the
+corner reflector plate, we return to the corner reflector framework to allow for comparing the incoming angle
+$\vartheta_i$ and the out-going beam angle $\vartheta_o$:
+
+$\vartheta_o=\pi/4+\varphi-\vartheta''$
+
+These calculation are implemented in refraction/refraction.m resulting in
+
+<img src="refraction/refraction.png">
