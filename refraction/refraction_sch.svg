@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="154.77737mm"
+   height="76.589455mm"
+   viewBox="0 0 154.77737 76.589455"
+   version="1.1"
+   id="svg21"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="refraction_sch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4378367"
+     inkscape:cx="330.70515"
+     inkscape:cy="144.66177"
+     inkscape:window-width="1499"
+     inkscape:window-height="725"
+     inkscape:window-x="6"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid155"
+       originx="-27.739145"
+       originy="-101.69737" />
+  </sodipodi:namedview>
+  <defs
+     id="defs18">
+    <marker
+       style="overflow:visible"
+       id="Arrow4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.739146,-101.69737)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 27.78125,144.19791 168.01041,103.1875 v 38.36458 2.64583 z"
+       id="path261" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 68.130212,115.09375 8.202076,28.04584"
+       id="path263" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.93854,107.68541 8.20208,28.04584"
+       id="path263-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="44.619335"
+       y="142.54056"
+       id="text981"><tspan
+         sodipodi:role="line"
+         id="tspan979"
+         style="stroke-width:0.264583"
+         x="44.619335"
+         y="142.54056">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="117.70206"
+       y="120.36683"
+       id="text981-2"><tspan
+         sodipodi:role="line"
+         id="tspan979-7"
+         style="stroke-width:0.264583"
+         x="117.70206"
+         y="120.36683">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="105.19532"
+       y="134.10106"
+       id="text981-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan979-7-2"
+         style="stroke-width:0.264583"
+         x="105.19532"
+         y="134.10106">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="69.331421"
+       y="117.40515"
+       id="text981-3"><tspan
+         sodipodi:role="line"
+         id="tspan979-6"
+         style="stroke-width:0.264583"
+         x="69.331421"
+         y="117.40515">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="102.13976"
+       y="110.109"
+       id="text981-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan979-6-9"
+         style="stroke-width:0.264583"
+         x="102.13976"
+         y="110.109">p</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 72.760416,144.19791 V 109.80208"
+       id="path1033" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.672105,144.25002 v -6.87917"
+       id="path1033-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 105.03958,144.19791 V 109.80208"
+       id="path1033-6" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.71875,112.44792 63.499999,31.74999"
+       id="path1068" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.68751,112.44898 -63.5,31.74999"
+       id="path1068-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="90.672905"
+       y="143.63741"
+       id="text1072"><tspan
+         sodipodi:role="line"
+         id="tspan1070"
+         style="stroke-width:0.264583"
+         x="90.672905"
+         y="143.63741">t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="152.19896"
+       y="120.85035"
+       id="text1072-3"><tspan
+         sodipodi:role="line"
+         id="tspan1070-6"
+         style="stroke-width:0.264583"
+         x="152.19896"
+         y="120.85035">t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan1834">i</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="63.235413"
+       y="130.175"
+       id="text1072-7"><tspan
+         sodipodi:role="line"
+         id="tspan1070-5"
+         style="stroke-width:0.264583"
+         x="63.235413"
+         y="130.175">t</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.53, 0.53;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 72.760416,130.96875 H 60.854166"
+       id="path1074" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.53, 0.53;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 116.76368,121.64204 H 104.85743"
+       id="path1074-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.53, 0.53;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 156.0035,121.69498 H 144.09725"
+       id="path1074-1-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.53, 0.53;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 140.56061,108.37015 H 128.65436"
+       id="path1074-1-9-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="107.39965"
+       y="84.165169"
+       id="text1111"
+       transform="rotate(26.153492)"><tspan
+         sodipodi:role="line"
+         id="tspan1109"
+         style="stroke-width:0.264583"
+         x="107.39965"
+         y="84.165169">90-p-t</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.760416,130.96875 11.90625,13.22916"
+       id="path1113" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 108.47917,117.7396 84.666667,144.19792"
+       id="path1113-3" />
+    <path
+       style="fill:none;stroke:#009000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 104.9937,121.61664 28.13754,-15.70202"
+       id="path1229" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.866478"
+       y="140.37837"
+       id="text1454"><tspan
+         sodipodi:role="line"
+         id="tspan1452"
+         style="stroke-width:0.264583"
+         x="75.866478"
+         y="140.37837">t'</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow4)"
+       d="m 78.052082,149.48958 5.291667,-9.26042"
+       id="path1456" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="74.083336"
+       y="153.45833"
+       id="text1669"><tspan
+         sodipodi:role="line"
+         id="tspan1667"
+         style="stroke-width:0.264583"
+         x="74.083336"
+         y="153.45833">t'+p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="41.973499"
+       y="104.98455"
+       id="text1673"><tspan
+         sodipodi:role="line"
+         id="tspan1671"
+         style="stroke-width:0.264583"
+         x="41.973499"
+         y="104.98455">n.sin(t')=sin(90-p-t)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.715149"
+       y="104.81734"
+       id="text1673-6"><tspan
+         sodipodi:role="line"
+         id="tspan1671-1"
+         style="stroke-width:0.264583"
+         x="91.715149"
+         y="104.81734">n.sin(t'+2p)=sin(t'')</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="97.102081"
+       y="134.14374"
+       id="text1677"><tspan
+         sodipodi:role="line"
+         id="tspan1675"
+         style="stroke-width:0.264583"
+         x="97.102081"
+         y="134.14374">t'+p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.25912"
+       y="107.01297"
+       id="text1830"><tspan
+         sodipodi:role="line"
+         id="tspan1828"
+         style="stroke-width:0.264583"
+         x="134.25912"
+         y="107.01297">t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan1832">o</tspan>=90+p-t''</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="34.755669"
+       y="162.76108"
+       id="text2576"><tspan
+         sodipodi:role="line"
+         id="tspan2574"
+         style="stroke-width:0.264583"
+         x="34.755669"
+         y="162.76108">If p=0: n.sin(t')=sin(90-t)               i.e. sin(90-t)=sin(90-t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2584">o</tspan>) i.e. t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2580">o</tspan>=t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2582">i</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="103.1875"
+       y="173.30208"
+       id="text2576-2"><tspan
+         sodipodi:role="line"
+         id="tspan2574-2"
+         style="stroke-width:0.264583"
+         x="103.1875"
+         y="173.30208">  i.e. t'=90-p-t           ie 2p=p+p-t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2776">o</tspan>+t ie t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2778">o</tspan>=t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2780">i</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="48.418751"
+       y="166.6875"
+       id="text2576-7"><tspan
+         sodipodi:role="line"
+         id="tspan2574-9"
+         style="stroke-width:0.264583"
+         x="48.418751"
+         y="166.6875">n.sin(t')=sin(t'')=sin(90-t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2578-2">o</tspan>) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="48.418751"
+       y="177.27083"
+       id="text2576-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan2574-9-5"
+         style="stroke-width:0.264583"
+         x="48.418751"
+         y="177.27083">sin(t'+2p)=sin(t'')=sin(90+p-t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2578-2-9">o</tspan>) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="112.44791"
+       y="177.27083"
+       id="text2576-7-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan2574-9-5-6"
+         style="stroke-width:0.264583"
+         x="112.44791"
+         y="177.27083">t'+2p=90+p-t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2578-2-9-1">o</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="34.755669"
+       y="173.34442"
+       id="text2588"><tspan
+         sodipodi:role="line"
+         id="tspan2586"
+         style="stroke-width:0.264583"
+         x="34.755669"
+         y="173.34442">If n=1: sin(t')=sin(90-p-t)</tspan></text>
+  </g>
+</svg>
