@@ -1,4 +1,4 @@
-# Modelling a RADAR corner reflector coated with various dielectric layer geometries
+# Modeling a RADAR corner reflector coated with various dielectric layer geometries
 
 Various authors have been considering the use of RADAR corner reflectors for assessing
 snow cover layer thickness and properties (see https://www.mdpi.com/2072-4292/11/8/988 
@@ -88,6 +88,6 @@ $\vartheta_i$ and the out-going beam angle $\vartheta_o$:
 
 $\vartheta_o=\pi/4+\varphi-\vartheta''$
 
-These calculation are implemented in refraction/refraction.m resulting in
+These calculation are implemented in <a href="refraction/refraction.m"> resulting in
 
 <img src="refraction/refraction.png">
