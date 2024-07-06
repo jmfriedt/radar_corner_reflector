@@ -88,7 +88,7 @@ $\vartheta_i$ and the out-going beam angle $\vartheta_o$:
 
 $\vartheta_o=\pi/4+\varphi-\vartheta''$
 
-These calculation are implemented in <a href="refraction/refraction.m"> resulting in
+These calculation are implemented in <a href="refraction/refraction.m">this script</a> resulting in
 
 <img src="refraction/refraction.png">
 
