@@ -91,3 +91,7 @@ $\vartheta_o=\pi/4+\varphi-\vartheta''$
 These calculation are implemented in <a href="refraction/refraction.m"> resulting in
 
 <img src="refraction/refraction.png">
+
+Even though this raytracing simulation had to be removed from the final published article as requested
+by reviewers, I still believe it brings insight into the physics of electromagnetic wave refraction by
+the snow layer. The published manuscript ``J.-M Friedt, Impact of a thin inhomogeneous snow layer on a microwave corner reflector RADAR cross section: consequences for spaceborne remote sensing, IEEE Trans. on Geoscience and Remote Sensing (2024)'' is available at https://ieeexplore.ieee.org/document/10584506
